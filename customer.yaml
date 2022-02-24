@@ -4,4 +4,4 @@ server:
 spring:
   data:
     mongodb:
-      uri: mongodb+srv://edwar123:edwar123@cluster0.naakg.mongodb.net/BootcampCustomer?retryWrites=true&w=majority
+      uri: mongodb+srv://edwar123:edwar123@cluster0.naakg.mongodb.net/BMSP02Customer?retryWrites=true&w=majority
